@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learnin Jest/TypeScript/Redux-Saga/Thunk
+- 🌱 I’m currently learnin Jest/TypeScript/React-Native/Thunk
